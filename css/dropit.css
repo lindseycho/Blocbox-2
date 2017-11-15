@@ -55,7 +55,7 @@
     margin-bottom: 0px;
 }
 .dropit .dropit-open .dropit-submenu li a {
-    color:#34495E;
+    color:#66bede;
     text-decoration: none;
     font-family: "Lato", Helvetica, Arial, sans-serif;
     font-weight:100;
@@ -114,7 +114,7 @@
     display: block;
 }
 .settings-menu.dropit .dropit-open .dropit-submenu li a {
-    color:#34495E;
+    color:#66bede;
     text-decoration: none;
     font-family: "Lato", Helvetica, Arial, sans-serif;
     font-weight:100;
