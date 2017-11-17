@@ -431,12 +431,7 @@
 .left-nav .items ul li {
   list-style-type: none;
   margin-bottom: 15px;
-}
-.left-nav .items ul li.active {
-  background-color: #2ecc71;
-  padding: 0.4em 0 0.4em 1.2em;
-  margin-left: -20px;
-  margin-right: -20px;
+  
 }
 .left-nav .items ul li a {
   color:#FFFFFF;
